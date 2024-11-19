@@ -1,5 +1,6 @@
 # Rock, Paper, Scissors Game
-
+![Weather app preview](src/media/weather-app-preview.gif)
+## Description
 This is a simple Python implementation of the classic **Rock, Paper, Scissors** game. The player competes against the computer, which randomly selects its choice. The game continues in a loop until the player chooses to stop.
 
 ## Features
