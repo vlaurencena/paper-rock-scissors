@@ -13,10 +13,15 @@ This is a simple Python implementation of the classic **Rock, Paper, Scissors** 
 - Python 3.x installed on your system.
 
 ### Steps
-1. Clone the repository or download the file `main.py`.
-2. Open a terminal and navigate to the directory where `main.py` is located.
-3. Run the script using the following command:
-
-```pi
+1. Clone the repository or download the file `main.py`:
+```bash
+git clone https://github.com/vlaurencena/paper-rock-scissors.git
+```
+2. Navigate to the project directory:
+```bash
+cd paper-rock-scissors
+```
+3. Run the script:
+```py
 python3 main.py
 ```
